@@ -1,0 +1,44 @@
+{
+  "profile": {
+    "name": "John Doe",
+    "email": "john@example.com"
+  },
+  "vehicles": [
+    {
+      "id": "1",
+      "vehicle": "Toyota Prius"
+    },
+    {
+      "id": "2",
+      "vehicle": "Tesla Model 3"
+    },
+    {
+      "id": "9773",
+      "vehicle": "audi"
+    }
+  ],
+  "consumptions": [
+    {
+      "id": "1",
+      "mileage": 500,
+      "liters": 40
+    },
+    {
+      "id": "2",
+      "mileage": 300,
+      "liters": 25
+    }
+  ],
+  "fuelAlternatives": [
+    {
+      "id": "1",
+      "name": "Gasoline",
+      "cost": "1.50 per gallon"
+    },
+    {
+      "id": "2",
+      "name": "Biofuel",
+      "cost": "2.00 per gallon"
+    }
+  ]
+}
